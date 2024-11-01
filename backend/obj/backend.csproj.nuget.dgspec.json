@@ -1,28 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP VICTUS\\OneDrive\\Desktop\\copilot_stack_app\\backend\\backend.csproj": {}
+    "C:\\CURSOS\\Udemy\\Microsoft Varios\\Microsoft Copilot World (Microsoft 365, MS Purview) 25+ Hour\\copilotFullStackApp\\backend\\backend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP VICTUS\\OneDrive\\Desktop\\copilot_stack_app\\backend\\backend.csproj": {
+    "C:\\CURSOS\\Udemy\\Microsoft Varios\\Microsoft Copilot World (Microsoft 365, MS Purview) 25+ Hour\\copilotFullStackApp\\backend\\backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP VICTUS\\OneDrive\\Desktop\\copilot_stack_app\\backend\\backend.csproj",
+        "projectUniqueName": "C:\\CURSOS\\Udemy\\Microsoft Varios\\Microsoft Copilot World (Microsoft 365, MS Purview) 25+ Hour\\copilotFullStackApp\\backend\\backend.csproj",
         "projectName": "backend",
-        "projectPath": "C:\\Users\\HP VICTUS\\OneDrive\\Desktop\\copilot_stack_app\\backend\\backend.csproj",
-        "packagesPath": "C:\\Users\\HP VICTUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP VICTUS\\OneDrive\\Desktop\\copilot_stack_app\\backend\\obj\\",
+        "projectPath": "C:\\CURSOS\\Udemy\\Microsoft Varios\\Microsoft Copilot World (Microsoft 365, MS Purview) 25+ Hour\\copilotFullStackApp\\backend\\backend.csproj",
+        "packagesPath": "C:\\Users\\pegoj\\.nuget\\packages\\",
+        "outputPath": "C:\\CURSOS\\Udemy\\Microsoft Varios\\Microsoft Copilot World (Microsoft 365, MS Purview) 25+ Hour\\copilotFullStackApp\\backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HP VICTUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\pegoj\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -130,7 +127,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
