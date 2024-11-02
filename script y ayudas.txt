@@ -1,0 +1,27 @@
+
+pegojuancarlos@gmail.com
+
+
+loryjuancar@gmail.com
+
+az account list
+
+ "cloudName": "AzureCloud",
+    "homeTenantId": "04271176-61ac-4366-90c7-d8f9f7e4b233",
+    "id": "cdfb084a-4fdc-406b-a7fa-bab29c8a7832",
+    "isDefault": true,
+    "managedByTenants": [],
+    "name": "Suscripción de Azure 1",
+    "state": "Enabled",
+    "tenantId": "04271176-61ac-4366-90c7-d8f9f7e4b233",
+    "user": {
+      "name": "pegojuancarlos@gmail.com",
+      "type": "user"
+	  
+-- eliminar un grupo de recursos con Azure CLI:
+ az group delete --name copilotrg719d6503
+
+
+--Instalar los Módulos de Azure en Powershell 
+(fuentes: https://virtualizadesdezero.com/azure-powershell-consola/)
+Install-Module -Name Az
